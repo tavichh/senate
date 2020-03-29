@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\thomas hryckewycz\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\thomas hryckewycz\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Senate.1133811172.00" t="ExcludeRecursive" />
+    <e p="P:\Senate" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Modules" t="Include">
+        <e p="Commands.cs" t="Include" />
+        <e p="Plot.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="Senate.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Senate.csproj" t="IncludeRecursive" />
+      <e p="Senate.sln" t="IncludeFlat" />
+      <e p="Token.cs" t="Include" />
+    </e>
+  </component>
+</project>
