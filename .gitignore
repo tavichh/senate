@@ -34,3 +34,5 @@ Token.cs
 Hidden.cs
 
 bin/
+
+.idea/
