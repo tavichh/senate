@@ -35,7 +35,9 @@ namespace Senate.Modules
                     {
                         Title = "Uh oh, there's a plot to kill the Caesar!",
                         Description =
-                            $"There are currently {power} plotters, and {senate.Count} senators!"
+                            $"There are currently {power} plotters, and {senate.Count} senators!",
+                        Color = Color.Blue,
+                        ImageUrl = Configuration.Plot,
                     };
                     await ReplyAsync(embed: plotterWindow.Build());
                 }

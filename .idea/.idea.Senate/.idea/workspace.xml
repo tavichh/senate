@@ -27,8 +27,8 @@
         <option value="$PROJECT_DIR$/Modules/Plot.cs" />
         <option value="$PROJECT_DIR$/Token.cs" />
         <option value="$PROJECT_DIR$/Hidden.cs" />
-        <option value="$PROJECT_DIR$/Configuration.cs" />
         <option value="$PROJECT_DIR$/Modules/Plotting.cs" />
+        <option value="$PROJECT_DIR$/Configuration.cs" />
       </list>
     </option>
   </component>
@@ -65,22 +65,22 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="2517" height="278" key="GridCell.Tab.0.bottom" timestamp="1585445120266">
+    <state width="2517" height="278" key="GridCell.Tab.0.bottom" timestamp="1585445688962">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="278" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1585445120266" />
-    <state width="2517" height="278" key="GridCell.Tab.0.center" timestamp="1585445120265">
+    <state width="2517" height="278" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1585445688962" />
+    <state width="2517" height="278" key="GridCell.Tab.0.center" timestamp="1585445688962">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="278" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1585445120265" />
-    <state width="2517" height="278" key="GridCell.Tab.0.left" timestamp="1585445120265">
+    <state width="2517" height="278" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1585445688962" />
+    <state width="2517" height="278" key="GridCell.Tab.0.left" timestamp="1585445688961">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="278" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1585445120265" />
-    <state width="2517" height="278" key="GridCell.Tab.0.right" timestamp="1585445120265">
+    <state width="2517" height="278" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1585445688961" />
+    <state width="2517" height="278" key="GridCell.Tab.0.right" timestamp="1585445688962">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="278" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1585445120265" />
+    <state width="2517" height="278" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1585445688962" />
     <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1585442409813">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
