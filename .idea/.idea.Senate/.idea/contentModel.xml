@@ -4,6 +4,7 @@
     <e p="C:\Users\thomas hryckewycz\.Rider2019.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\thomas hryckewycz\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Senate.1133811172.00" t="ExcludeRecursive" />
     <e p="P:\Senate" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Modules" t="Include">
         <e p="Commands.cs" t="Include" />
@@ -18,6 +19,7 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Program.cs" t="Include" />
+      <e p="README.md" t="Include" />
       <e p="Senate.csproj" t="IncludeRecursive" />
       <e p="Senate.sln" t="IncludeFlat" />
       <e p="Token.cs" t="Include" />

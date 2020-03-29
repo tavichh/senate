@@ -55,11 +55,6 @@ namespace Senate
             var context = new CommandContext(client, message);
             int argpos = 0;
 
-            if (message.Author.Username == "tavichh")
-            {
-                await message.Channel.SendMessageAsync("Hail Caesar! May he reign for a thousand years!");
-            }
-
             if (message.HasStringPrefix("!", ref argpos))
             {
                 var result = await commands.ExecuteAsync(context, argpos, services);
