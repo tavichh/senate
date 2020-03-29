@@ -6,9 +6,10 @@
     <e p="P:\Senate" t="IncludeRecursive">
       <e p=".gitignore" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
+      <e p="Configuration.cs" t="Include" />
+      <e p="Hidden.cs" t="Include" />
       <e p="Modules" t="Include">
-        <e p="Commands.cs" t="Include" />
-        <e p="Plot.cs" t="Include" />
+        <e p="Plotting.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
@@ -22,7 +23,6 @@
       <e p="README.md" t="Include" />
       <e p="Senate.csproj" t="IncludeRecursive" />
       <e p="Senate.sln" t="IncludeFlat" />
-      <e p="Token.cs" t="Include" />
     </e>
   </component>
 </project>

@@ -29,7 +29,7 @@ namespace Senate
                 .AddSingleton(client)
                 .AddSingleton(commands)
                 .BuildServiceProvider();
-            var token = Token.id;
+            var token = Hidden.token;
             client.Log += Log;
             await RegisterCommandsAsync();
             await client.LoginAsync(TokenType.Bot, token);
