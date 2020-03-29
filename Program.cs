@@ -55,7 +55,7 @@ namespace Senate
             var context = new CommandContext(client, message);
             int argpos = 0;
 
-            if (message.HasStringPrefix("!", ref argpos))
+            if (message.Author.IsBot==false)
             {
                 var result = await commands.ExecuteAsync(context, argpos, services);
                 if (!result.IsSuccess) Console.WriteLine(result.ErrorReason);
